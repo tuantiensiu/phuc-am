@@ -1,0 +1,9 @@
+---
+sidebar_position: 2 
+---
+
+# Giống Chúa Trong Dấn Thân Phục Vụ
+
+
+<iframe width="100%" height="444" src="https://www.youtube.com/embed/eenA14fbFas?si=82eHfXbTR5m5POiT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
