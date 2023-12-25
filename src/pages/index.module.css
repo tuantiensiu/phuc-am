@@ -8,11 +8,39 @@
   text-align: center;
   position: relative;
   overflow: hidden;
+  /* height: 400px; */
+}
+
+.containerImage {
+  background-image: url(/img/banner.jpeg);
+  background-position-x: center;
+  background-position-y: -200px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-blend-mode: multiply;
+  background-color: #b88a45;
+}
+
+.heroSubtitle{
+  font-size: 3rem;
+  font-weight: bold;
+}
+@media screen and (min-width: 1200px) {
+  .containerImage {
+  height: 80vh;
+  }
+ 
 }
 
 @media screen and (max-width: 996px) {
   .heroBanner {
     padding: 2rem;
+  }
+  .containerImage{
+    background-position-y: -34px;
+  }
+  .heroSubtitle{
+    font-size: 1.5rem;
   }
 }
 
