@@ -8,20 +8,20 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Phuc Am',
+  tagline: 'Chia sẻ lời Chúa đến cho mọi người',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://phucam.vn',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'tiennguyen', // Usually your GitHub org/user name.
+  projectName: 'phuc-am', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -79,57 +79,66 @@ const config = {
             label: 'Bài Giảng',
           },
           {to: '/blog', label: 'Bồi Linh', position: 'left'},
-          // {
-          //   href: 'https://github.com/facebook/docusaurus',
-          //   label: 'GitHub',
-          //   position: 'right',
-          // },
+          {
+            href: 'https://www.youtube.com/c/PhucAm',
+            label: 'Youtube',
+            position: 'right',
+          },
+          {
+            href: 'https://www.facebook.com/CongViecTayChua',
+            label: 'Facebook',
+            position: 'right',
+          },
         ],
       },
       footer: {
         style: 'dark',
         links: [
-          // {
-          //   title: 'Docs',
-          //   items: [
-          //     {
-          //       label: 'Tutorial',
-          //       to: '/docs/intro',
-          //     },
-          //   ],
-          // },
           {
-            title: 'Community',
+            title: "Tài Liệu",
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: "Bài Giảng",
+                to: "/docs/category/mục-sư-nguyễn-hữu-bình"
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: "Thánh Ca",
+                to: "https://thanhca.httlvn.org/"
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: "Kinh Thánh",
+                to: "https://kinhthanh.httlvn.org/?v=VI1934"
               },
-            ],
+            ]
+          },
+          {
+            title: "Hội Thánh",
+            items: [
+              {
+                label: "Hội Thánh Tin Lành Việt Nam",
+                href: "https://httlvn.org/"
+              },
+              // {
+              //   label: "Chi Hội Gia Định",
+              //   href: "https://www.facebook.com/hoithanhtinlanhGiaDinh/"
+              // }
+            ]
           },
           {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Youtube',
+                href: 'https://www.youtube.com/c/PhucAm',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Facebook',
+                href: 'https://www.facebook.com/CongViecTayChua',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Phúc Âm`,
       },
       prism: {
         theme: prismThemes.github,
