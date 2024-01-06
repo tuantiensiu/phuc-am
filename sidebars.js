@@ -64,6 +64,15 @@ const sidebars = {
         
       ]
     },
+    {
+      type: 'category',
+      label: 'Con Người & Chức Vụ Của Ba-na-ba',
+      items: [
+        'boi-linh-con-nguoi-chuc-vu/p1',
+        'boi-linh-con-nguoi-chuc-vu/p2',
+        
+      ]
+    },
   ]
 
  
