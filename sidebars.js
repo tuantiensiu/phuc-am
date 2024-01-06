@@ -73,6 +73,18 @@ const sidebars = {
         
       ]
     },
+    {
+      type: 'category',
+      label: 'Cuộc đời Chúa Giê-xu',
+      items: [
+        'boi-linh-cuoc-doi-chua-giexu/p1',
+        'boi-linh-cuoc-doi-chua-giexu/p2',
+        'boi-linh-cuoc-doi-chua-giexu/p3',
+        'boi-linh-cuoc-doi-chua-giexu/p4',
+        'boi-linh-cuoc-doi-chua-giexu/p5',
+        'boi-linh-cuoc-doi-chua-giexu/p6',
+      ]
+    },
   ]
 
  
