@@ -63,7 +63,7 @@ const sidebars = {
         'boi-linh-sach-gio-na/p6',
         
       ]
-    }
+    },
   ]
 
  
