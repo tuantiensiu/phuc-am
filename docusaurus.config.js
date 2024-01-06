@@ -78,7 +78,13 @@ const config = {
             position: 'left',
             label: 'Bài Giảng',
           },
-          {to: '/blog', label: 'Bồi Linh', position: 'left'},
+          {
+            type: 'docSidebar',
+            sidebarId: 'boilinhSidebar',
+            position: 'left',
+            label: 'Bồi Linh',
+          },
+          // {to: '/blog', label: 'Bồi Linh', position: 'left'},
           {
             href: 'https://www.youtube.com/c/PhucAm',
             label: 'Youtube',
