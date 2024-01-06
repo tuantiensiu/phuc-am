@@ -74,6 +74,16 @@ const sidebars = {
     },
     {
       type: 'category',
+      label: 'Khảo Học Thánh Kinh',
+      items: [
+        'boi-linh-khao-hoc-thanh-kinh/p1',
+        'boi-linh-khao-hoc-thanh-kinh/p2',
+        'boi-linh-khao-hoc-thanh-kinh/p3',
+        'boi-linh-khao-hoc-thanh-kinh/p4',
+      ]
+    },
+    {
+      type: 'category',
       label: 'Sách Giô-na',
       items: [
         'boi-linh-sach-gio-na/p1',
