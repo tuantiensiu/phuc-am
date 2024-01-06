@@ -104,10 +104,6 @@ const config = {
             title: "Tài Liệu",
             items: [
               {
-                label: "Bài Giảng",
-                to: "/docs/category/mục-sư-nguyễn-hữu-bình"
-              },
-              {
                 label: "Thánh Ca",
                 to: "https://thanhca.httlvn.org/"
               },
