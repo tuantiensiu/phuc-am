@@ -84,6 +84,16 @@ const sidebars = {
     },
     {
       type: 'category',
+      label: 'Sống Đạo Giữa Đời',
+      items: [
+        'boi-linh-song-dao-giua-doi/p1',
+        'boi-linh-song-dao-giua-doi/p2',
+        'boi-linh-song-dao-giua-doi/p3',
+  
+      ]
+    },
+    {
+      type: 'category',
       label: 'Sách Giô-na',
       items: [
         'boi-linh-sach-gio-na/p1',
