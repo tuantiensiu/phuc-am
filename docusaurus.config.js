@@ -86,15 +86,18 @@ const config = {
           },
           // {to: '/blog', label: 'Bồi Linh', position: 'left'},
           {
-            href: 'https://www.youtube.com/c/PhucAm',
-            label: 'Youtube',
-            position: 'right',
+            to: '/dang-hien', label: 'Dâng Hiến', position: 'right'
           },
-          {
-            href: 'https://www.facebook.com/CongViecTayChua',
-            label: 'Facebook',
-            position: 'right',
-          },
+          // {
+          //   href: 'https://www.youtube.com/c/PhucAm',
+          //   label: 'Youtube',
+          //   position: 'right',
+          // },
+          // {
+          //   href: 'https://www.facebook.com/CongViecTayChua',
+          //   label: 'Facebook',
+          //   position: 'right',
+          // },
         ],
       },
       footer: {
