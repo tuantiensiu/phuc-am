@@ -53,19 +53,6 @@ const sidebars = {
     },
     {
       type: 'category',
-      label: 'Sách Giô-na',
-      items: [
-        'boi-linh-sach-gio-na/p1',
-        'boi-linh-sach-gio-na/p2',
-        'boi-linh-sach-gio-na/p3',
-        'boi-linh-sach-gio-na/p4',
-        'boi-linh-sach-gio-na/p5',
-        'boi-linh-sach-gio-na/p6',
-        
-      ]
-    },
-    {
-      type: 'category',
       label: 'Con Người & Chức Vụ Của Ba-na-ba',
       items: [
         'boi-linh-con-nguoi-chuc-vu/p1',
@@ -83,6 +70,34 @@ const sidebars = {
         'boi-linh-cuoc-doi-chua-giexu/p4',
         'boi-linh-cuoc-doi-chua-giexu/p5',
         'boi-linh-cuoc-doi-chua-giexu/p6',
+      ]
+    },
+    {
+      type: 'category',
+      label: 'Sách Giô-na',
+      items: [
+        'boi-linh-sach-gio-na/p1',
+        'boi-linh-sach-gio-na/p2',
+        'boi-linh-sach-gio-na/p3',
+        'boi-linh-sach-gio-na/p4',
+        'boi-linh-sach-gio-na/p5',
+        'boi-linh-sach-gio-na/p6',
+        
+      ]
+    },
+    {
+      type: 'category',
+      label: 'Sách Khải Huyền',
+      items: [
+        'boi-linh-khai-huyen/p1',
+        'boi-linh-khai-huyen/p2',
+        'boi-linh-khai-huyen/p3',
+        'boi-linh-khai-huyen/p4',
+        'boi-linh-khai-huyen/p5',
+        'boi-linh-khai-huyen/p6',
+        'boi-linh-khai-huyen/p7',
+        'boi-linh-khai-huyen/p8',
+        'boi-linh-khai-huyen/p9',
       ]
     },
   ]
