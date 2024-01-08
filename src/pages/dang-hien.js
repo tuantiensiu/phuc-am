@@ -18,7 +18,7 @@ export default function MyReactPage() {
         - STK: 3309 0961 0699
         </p>
         <p>
-        - Chủ tài khoản: Trương Huỳnh Thiên Phú5
+        - Chủ tài khoản: Trương Huỳnh Thiên Phúc 
 
         </p>
         <p>
