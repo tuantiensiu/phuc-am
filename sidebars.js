@@ -39,6 +39,22 @@ const sidebars = {
         'muc-su-phan-vinh-cu/the-he-tiep-noi',
       ],
     },
+    {
+      type: 'category',
+      label: 'Mục sư Mã Phúc Hiệp',
+      items: [
+        'ms-ma-phuc-hiep/hay-nho-lai-vo-cua-lot',
+        'ms-ma-phuc-hiep/phuoc-hanh-noi-chua-thang-thien',
+        'ms-ma-phuc-hiep/1',
+        'ms-ma-phuc-hiep/2',
+        'ms-ma-phuc-hiep/3',
+        'ms-ma-phuc-hiep/4',
+        'ms-ma-phuc-hiep/5',
+        'ms-ma-phuc-hiep/6',
+        'ms-ma-phuc-hiep/7',
+
+      ],
+    },
   ],
   boilinhSidebar: [
     {
